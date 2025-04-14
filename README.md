@@ -20,7 +20,7 @@ imgDir = 'CrowdHuman/images'
 json_dir = 'CrowdHuman/annotations'
 ```
 
-3. Train Iter SparseR-CNN
+3. Train mirror
 ```
 cd projects/mirror
 python3 train_net.py --num-gpus 8 \
